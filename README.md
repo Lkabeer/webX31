@@ -1,4 +1,4 @@
 # webX31
 Gulp X-Team
 
-$ npm install gulp gulp-sass browser-sync --save-dev
+$ npm install gulp@next gulp-sass browser-sync --save-dev
